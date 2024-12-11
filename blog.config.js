@@ -1,7 +1,7 @@
 const BLOG = {
-  title: '垃圾佬的博客',
-  author: '垃圾佬',
-  email: 'i@freetech.dynv6.net',
+  title: 'Goodman\'s Blog',
+  author: 'Goodman',
+  email: 'goodman@techbox.us.kg',
   link: 'www.163.com',
   description: '这里是垃圾佬日常折腾的记录。',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
